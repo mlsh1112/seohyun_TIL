@@ -7,7 +7,7 @@
 - [WEB](#WEB)
 - [Javascript](#Javascript)
 - [React](#React)
-- [Algorithm](#Algorithm)
+- [Algorithm](https://velog.io/@mlsh1112/series/Algorithm)
 
 * * *
 ## WEB
