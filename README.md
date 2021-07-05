@@ -18,6 +18,7 @@
 ## JavaScript
 1. [Promise](https://velog.io/@mlsh1112/Promise)
 2. [Javascript의 type](https://velog.io/@mlsh1112/Javascript%EC%9D%98-type)
+3. [Javascript-this](https://velog.io/@mlsh1112/Javascript-this)
 
 * * *
 ## React
