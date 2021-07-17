@@ -17,6 +17,7 @@
 3. [Same-origin policy & CORS](https://velog.io/@mlsh1112/Same-origin-policy-CORS)
 4. [Semantic tag](https://velog.io/@mlsh1112/Semantic-Tag)
 5. [HTML5 기본 문법 정리](https://velog.io/@mlsh1112/HTML5-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC)
+6. [SSR(1) - SSR이 무엇일까?🤔](https://velog.io/@mlsh1112/SSR1-SSR%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 
 ## JavaScript
 1. [Promise](https://velog.io/@mlsh1112/Promise)
