@@ -9,6 +9,7 @@
 - [React](#React)
 - [NodeJS](#NodeJS)
 - [Algorithm](https://velog.io/@mlsh1112/series/Algorithm)
+- [Git](#Git)
 - [2021 오픈소스 컨트리뷰톤](#2021-오픈소스-컨트리뷰톤)
 * * *
 
@@ -47,6 +48,10 @@
 5. [[Boiler Plate] (5) 로그인 & Token & Cookie](https://velog.io/@mlsh1112/Boiler-Plate-5-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 6. [[Boiler Plate] (6) User Authentication](https://velog.io/@mlsh1112/Boiler-Plate-6-User-Authentication)
 7. [[Boiler plate] (7) Logout](https://velog.io/@mlsh1112/Boiler-plate-7-Logout)
+
+## Git
+1. [Git 정리하기](https://velog.io/@mlsh1112/Git-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0)
+2. [Gitflow Workflow[1]](https://velog.io/@mlsh1112/Gitflow-Workflow)
 
 ## 2021 오픈소스 컨트리뷰톤
 1. 오픈소스 기본수업 & 고급수업
