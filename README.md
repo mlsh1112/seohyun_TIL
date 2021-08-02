@@ -9,8 +9,7 @@
 - [React](#React)
 - [NodeJS](#NodeJS)
 - [Algorithm](https://velog.io/@mlsh1112/series/Algorithm)
-- []()
-- [2021 오픈소스 컨트리뷰톤](#2021 오픈소스 컨트리뷰톤)
+- [2021 오픈소스 컨트리뷰톤](#2021-오픈소스-컨트리뷰톤)
 * * *
 
 ## WEB
