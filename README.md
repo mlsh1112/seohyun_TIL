@@ -54,4 +54,4 @@
 2. [Gitflow Workflow[1]](https://velog.io/@mlsh1112/Gitflow-Workflow)
 
 ## 2021 오픈소스 컨트리뷰톤
-1. 오픈소스 기본수업 & 고급수업
+1. [[2021 오픈소스 컨트리뷰톤] - 오픈소스 교육](https://velog.io/@mlsh1112/2021-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%86%A4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EA%B5%90%EC%9C%A1)
