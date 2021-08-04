@@ -22,12 +22,15 @@
 6. [SSR(1) - SSR이 무엇일까?🤔](https://velog.io/@mlsh1112/SSR1-SSR%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 7. [TDD 강의 정리](https://velog.io/@mlsh1112/TDD-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
 8. [배포 자동화, 무중단 배포 환경](https://velog.io/@mlsh1112/%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+9. [라이브러리와 프레임워크의 차이](https://velog.io/@mlsh1112/Library%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-Framework%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%B0%A8%EC%9D%B4)
+10. ['REST API'란 무엇인가](https://velog.io/@mlsh1112/REST-API)
 
 ## JavaScript
 1. [Promise](https://velog.io/@mlsh1112/Promise)
 2. [Javascript의 type](https://velog.io/@mlsh1112/Javascript%EC%9D%98-type)
 3. [Javascript-this](https://velog.io/@mlsh1112/Javascript-this)
 4. [JavaScript의 동향](https://velog.io/@mlsh1112/JavaScript%EC%9D%98-%EB%8F%99%ED%96%A5)
+5. [정적 타입 언어 vs 동적 타입 언어](https://velog.io/@mlsh1112/%EC%A0%95%EC%A0%81-%ED%83%80%EC%9E%85-%EC%96%B8%EC%96%B4-vs-%EB%8F%99%EC%A0%81-%ED%83%80%EC%9E%85-%EC%96%B8%EC%96%B4)
 
 
 ## React
@@ -48,6 +51,9 @@
 5. [[Boiler Plate] (5) 로그인 & Token & Cookie](https://velog.io/@mlsh1112/Boiler-Plate-5-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
 6. [[Boiler Plate] (6) User Authentication](https://velog.io/@mlsh1112/Boiler-Plate-6-User-Authentication)
 7. [[Boiler plate] (7) Logout](https://velog.io/@mlsh1112/Boiler-plate-7-Logout)
+8. [node.js란 무엇인가](https://velog.io/@mlsh1112/node.js%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+9. [npm(yarn)이란 무엇인가](https://velog.io/@mlsh1112/npmyarn%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+10. [Node.js의 FE Library / Framework](https://velog.io/@mlsh1112/Node.js%EC%9D%98-FE-Library-Framework)
 
 ## Git
 1. [Git 정리하기](https://velog.io/@mlsh1112/Git-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0)
