@@ -24,6 +24,7 @@
 8. [배포 자동화, 무중단 배포 환경](https://velog.io/@mlsh1112/%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 9. [라이브러리와 프레임워크의 차이](https://velog.io/@mlsh1112/Library%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-Framework%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%B0%A8%EC%9D%B4)
 10. ['REST API'란 무엇인가](https://velog.io/@mlsh1112/REST-API)
+11. [HTTP 내용 부시기🔥 - (http/1.1 vs http/2 & 상태코드 & Method & http vs https & http vs TCP/IP](https://velog.io/@mlsh1112/HTTP-%EB%82%B4%EC%9A%A9-%EB%B6%80%EC%8B%9C%EA%B8%B0)
 
 ## JavaScript
 1. [Promise](https://velog.io/@mlsh1112/Promise)
