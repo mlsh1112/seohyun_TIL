@@ -25,6 +25,8 @@
 9. [라이브러리와 프레임워크의 차이](https://velog.io/@mlsh1112/Library%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-Framework%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%B0%A8%EC%9D%B4)
 10. ['REST API'란 무엇인가](https://velog.io/@mlsh1112/REST-API)
 11. [HTTP 내용 부시기🔥 - (http/1.1 vs http/2 & 상태코드 & Method & http vs https & http vs TCP/IP)](https://velog.io/@mlsh1112/HTTP-%EB%82%B4%EC%9A%A9-%EB%B6%80%EC%8B%9C%EA%B8%B0)
+12. [Client & Server](https://velog.io/@mlsh1112/Client-Server)
+13. [Cookie 🍪 & Session](https://velog.io/@mlsh1112/Cookie-Session)
 
 ## JavaScript
 1. [Promise](https://velog.io/@mlsh1112/Promise)
