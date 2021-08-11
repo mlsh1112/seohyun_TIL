@@ -27,6 +27,7 @@
 11. [HTTP 내용 부시기🔥 - (http/1.1 vs http/2 & 상태코드 & Method & http vs https & http vs TCP/IP)](https://velog.io/@mlsh1112/HTTP-%EB%82%B4%EC%9A%A9-%EB%B6%80%EC%8B%9C%EA%B8%B0)
 12. [Client & Server](https://velog.io/@mlsh1112/Client-Server)
 13. [Cookie 🍪 & Session](https://velog.io/@mlsh1112/Cookie-Session)
+14. [브라우저 동작 방법](https://velog.io/@mlsh1112/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%8F%99%EC%9E%91-%EB%B0%A9%EB%B2%95-xj32rhvk)
 
 ## JavaScript
 1. [Promise](https://velog.io/@mlsh1112/Promise)
